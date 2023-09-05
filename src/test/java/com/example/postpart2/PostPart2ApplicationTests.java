@@ -1,4 +1,4 @@
-package com.example.post_part2;
+package com.example.postpart2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

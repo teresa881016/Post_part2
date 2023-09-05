@@ -1,4 +1,4 @@
-package com.example.post_part2;
+package com.example.postpart2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
